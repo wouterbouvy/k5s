@@ -1,0 +1,3 @@
+---
+providerRegex: ^(1.k5s.dev|2.k5s.dev|3.k5s.dev)$
+bypassDnsResolution: true
